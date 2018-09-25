@@ -1,5 +1,8 @@
 _repo: Index-for-Works-of-Willis-George-Emerson-Hyperlinks-to-all-Chapters-of-all-Individual-Ebooks_57541
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Emerson, Willis George
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '1961'
     url: http://www.gutenberg.org/2009/agents/1961
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57541#Index-for-Works-of-Willis-George-Emerson-Hyperlinks-to-all-Chapters-of-all-Individual-Ebooks
 gutenberg_issued: '2018-07-19'
 gutenberg_type: Text
 identifiers:
